@@ -1,0 +1,12 @@
+users:
+* john - name, last name = John
+
+
+
+superuser:
+* joe - joe@example.com - joe
+
+
+
+
+ 
